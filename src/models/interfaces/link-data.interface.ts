@@ -7,6 +7,7 @@ export interface LinkData {
   url: string
   host: string
   iconType: IconType
-  imageUrl: string
-  cardSize: CardSize
+  imageUrl?: string
+  size: CardSize
+  mobileSize: CardSize
 }

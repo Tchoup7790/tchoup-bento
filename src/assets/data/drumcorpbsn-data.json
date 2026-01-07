@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Concours",
+    "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/259",
+    "host": "kdrive.infomaniak.com",
+    "iconType": "KDRIVE",
+    "imageUrl": "/DRUMCORPBSN/concours-sb25.png",
+    "size": "RECTANGLE",
+    "mobileSize": "SMALLRECTANGLE"
+  },
+  {
+    "id": 2,
+    "title": "Concours",
+    "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiDThQ6mWack-cJR9dUHZ8Fd",
+    "host": "youtube.com",
+    "iconType": "YOUTUBE",
+    "imageUrl": "/DRUMCORPBSN/concours-l25.jpeg",
+    "size": "RECTANGLE",
+    "mobileSize": "RECTANGLE"
+  },
+  {
+    "id": 3,
+    "title": "Répertoire",
+    "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/231",
+    "host": "kdrive.infomaniak.com",
+    "iconType": "KDRIVE",
+    "imageUrl": "/DRUMCORPBSN/repe.jpeg",
+    "size": "RECTANGLE",
+    "mobileSize": "SMALLRECTANGLE"
+  },
+  {
+    "id": 4,
+    "title": "Répertoire",
+    "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiDrnjdJ1D-uPLniTZ7ogKHB",
+    "host": "youtube.com",
+    "iconType": "YOUTUBE",
+    "imageUrl": "/DRUMCORPBSN/bouffe-25.jpeg",
+    "size": "RECTANGLE",
+    "mobileSize": "RECTANGLE"
+  },
+  {
+    "id": 5,
+    "title": "LADPB",
+    "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/2141",
+    "host": "kdrive.infomaniak.com",
+    "iconType": "KDRIVE",
+    "size": "SQUARE",
+    "mobileSize": "SMALLRECTANGLE"
+  },
+  {
+    "id": 6,
+    "title": "LADPB Bagad Nantes",
+    "url": "https://drive.google.com/drive/folders/116xYsig5B_UCRnHviuhumXPkxh_HODe7?usp=drive_link",
+    "host": "drive.google.com",
+    "iconType": "GDRIVE",
+    "size": "SQUARE",
+    "mobileSize": "SMALLRECTANGLE"
+  },
+  {
+    "id": 7,
+    "title": "LADPD",
+    "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiBTv-yAr_bOZoXgkR2hCojX",
+    "host": "youtube.com",
+    "iconType": "YOUTUBE",
+    "imageUrl": "/DRUMCORPBSN/repe-ladpd.jpg",
+    "size": "RECTANGLE",
+    "mobileSize": "RECTANGLE"
+  },
+  {
+    "id": 8,
+    "title": "Archives",
+    "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/260",
+    "host": "kdrive.infomaniak.com",
+    "iconType": "KDRIVE",
+    "size": "SQUARE",
+    "mobileSize": "SMALLRECTANGLE"
+  },
+  {
+    "id": 9,
+    "title": "Archives",
+    "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiAWZYL_Ei1gRGVJ-SaWQRcS",
+    "host": "youtube.com",
+    "iconType": "YOUTUBE",
+    "size": "SQUARE",
+    "mobileSize": "SMALLRECTANGLE"
+  },
+  {
+    "id": 10,
+    "title": "Agenda BSN - Inscriptions 2024/2025",
+    "url": "https://docs.google.com/spreadsheets/d/1Pc2syK2nzulhObRjfTTmrSwdoFMwQJUJM8xqM_RaG0o/edit?usp=sharing",
+    "host": "docs.google.com",
+    "iconType": "GSHEET",
+    "size": "SQUARE",
+    "mobileSize": "SQUARE"
+  },
+  {
+    "id": 11,
+    "title": "Répertoire Musical Bagad",
+    "url": "https://drive.google.com/drive/folders/153ilCHEvRHkcR4AbNqI_N0ktShgOQsGz?usp=drive_link",
+    "host": "drive.google.com",
+    "iconType": "GDRIVE",
+    "size": "SQUARE",
+    "mobileSize": "SQUARE"
+  }
+]

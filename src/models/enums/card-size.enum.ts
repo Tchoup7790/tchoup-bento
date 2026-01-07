@@ -1,0 +1,5 @@
+export enum CardSize {
+  RECTANGLE = 'RECTANGLE',
+  SMALLRECTANGLE = 'SMALLRECTANGLE',
+  SQUARE = 'SQUARE',
+}

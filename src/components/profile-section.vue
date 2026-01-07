@@ -1,7 +1,7 @@
 <template>
   <div class="profile-section">
     <div>
-      <img :src="`/${props.name}/head.png`" :alt="props.name" />
+      <img :src="`/${props.avatarUrl}/head.png`" :alt="props.name" />
     </div>
     <h1>{{ props.name }}</h1>
   </div>

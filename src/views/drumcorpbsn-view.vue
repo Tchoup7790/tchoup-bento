@@ -1,6 +1,6 @@
 <template>
   <main>
-    <profile-section avatar-url="" name="DRUMCORPBSN" />
+    <profile-section avatar-url="DRUMCORPBSN" name="DRUM CORP BSN" />
     <link-grid :links="drumcorpbsnData as LinkData[]" />
   </main>
 </template>

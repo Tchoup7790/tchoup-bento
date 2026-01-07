@@ -1,7 +1,7 @@
 <template>
   <a :href="props.link.url" target="_blank">
     <div>
-      <img :src="`/${props.link.iconType}.ico`" :alt="props.link.iconType" />
+      <img :src="`/apps/${props.link.iconType}.ico`" :alt="props.link.iconType" />
       <div>
         <p>{{ props.link.title }}</p>
         <p>{{ props.link.host }}</p>

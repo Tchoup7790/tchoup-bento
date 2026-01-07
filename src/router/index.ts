@@ -3,7 +3,9 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
   history: createWebHistory(),
-  routes: [{ path: '/', name: 'drumcorpbsn', component: DrumcorpbsnView }],
+  routes: [
+    { path: '/', name: 'drumcorpbsn', component: DrumcorpbsnView, meta: { title: 'DRUMCORPBSN' } },
+  ],
 })
 
 export default router

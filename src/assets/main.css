@@ -57,7 +57,7 @@ main {
   display: grid;
   margin: none;
   grid-template-columns: repeat(4, 183px);
-  grid-auto-rows: 91.5px;
+  grid-auto-rows: 71.5px;
   gap: 40px;
 }
 
@@ -88,18 +88,18 @@ main {
 /* === Card Sizes - Bento System === */
 .link-card[data-size='SQUARE'] {
   grid-column: span 1;
-  grid-row: span 1;
+  grid-row: span 2;
 }
 
 .link-card[data-size='RECTANGLE'] {
   grid-column: span 2;
-  grid-row: span 1;
+  grid-row: span 2;
 }
 
 /* 4×1 (390x87.5) */
 .link-card[data-size='SMALLRECTANGLE'] {
   grid-column: span 2;
-  grid-row: span 0.5;
+  grid-row: span 1;
 }
 
 /* === Card Header === */
@@ -165,6 +165,29 @@ main {
 
 .link-card[data-size='SMALLRECTANGLE'] .link-card-host {
   display: none;
+}
+
+/* === Color Adjustements === */
+.link-card[data-icon-type='YOUTUBE'] {
+  background: #fbf0f0;
+}
+
+.link-card[data-icon-type='YOUTUBE']:hover {
+  background: #f5eaea;
+}
+.link-card[data-icon-type='YOUTUBE']:active {
+  background: #ebe0e0;
+}
+
+.link-card[data-icon-type='KDRIVE'] {
+  background: #f2f5ff;
+}
+
+.link-card[data-icon-type='KDRIVE']:hover {
+  background: #eaf0ff;
+}
+.link-card[data-icon-type='KDRIVE']:active {
+  background: #e3e8fa;
 }
 
 /* === Mobile Responsive === */

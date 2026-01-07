@@ -5,7 +5,7 @@
     target="_blank"
     :data-size="props.link.size"
     :data-mobile-size="props.link.mobileSize"
-    :data-host="props.link.host"
+    :data-icon-type="props.link.iconType"
   >
     <div class="link-card-header">
       <div class="link-card-top">

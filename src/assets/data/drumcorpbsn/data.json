@@ -2,96 +2,78 @@
   {
     "title": "Concours",
     "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/259",
-    "host": "kdrive.infomaniak.com",
-    "iconType": "kdrive",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9rZHJpdmUuaW5mb21hbmlhay5jb20vYXNzZXRzLzBlZWViMDkwNmQxNWEyZmEwNGFkOGU0MmYwY2Q2MmVmN2FmNTFjYzIvYXNzZXRzL2Zhdmljb24vZmF2aWNvbi0zMngzMi5wbmc%3D.png",
+    "iconType": "KDRIVE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/users%2Fcmcjiv8a702m8nm01myz7n1wm%2FsguhpKpO3kvmUEZq-09397f6549dff457685c3738c4a7c4dd.jpeg",
-    "size": "2x4"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "Répertoire",
     "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/231",
-    "host": "kdrive.infomaniak.com",
-    "iconType": "kdrive",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9rZHJpdmUuaW5mb21hbmlhay5jb20vYXNzZXRzLzBlZWViMDkwNmQxNWEyZmEwNGFkOGU0MmYwY2Q2MmVmN2FmNTFjYzIvYXNzZXRzL2Zhdmljb24vZmF2aWNvbi0zMngzMi5wbmc%3D.png",
+    "iconType": "KDRIVE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/users%2Fcmcjiv8a702m8nm01myz7n1wm%2Fg6OQaao8JkDaqYk7-IMG_4155.jpeg",
-    "size": "2x4"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "LADPB",
     "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/2141",
-    "host": "kdrive.infomaniak.com",
-    "iconType": "kdrive",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9rZHJpdmUuaW5mb21hbmlhay5jb20vYXNzZXRzLzBlZWViMDkwNmQxNWEyZmEwNGFkOGU0MmYwY2Q2MmVmN2FmNTFjYzIvYXNzZXRzL2Zhdmljb24vZmF2aWNvbi0zMngzMi5wbmc%3D.png",
+    "iconType": "KDRIVE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Fogimages%2FaHR0cHM6Ly9rZHJpdmUuaW5mb21hbmlhay5jb20vcHJldmlldy9mb2xkZXIuanBn.jpeg",
-    "size": "2x2"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "LADPB Bagad Nantes",
     "url": "https://drive.google.com/drive/folders/116xYsig5B_UCRnHviuhumXPkxh_HODe7?usp=drive_link",
-    "host": "drive.google.com",
-    "iconType": "google",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20vZG9jcy9kb2NsaXN0L2ltYWdlcy9kcml2ZV8yMDIycTNfMzJkcC5wbmc%3D.png",
+    "iconType": "GDRIVE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/sites/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTE2eFlzaWc1Ql9VQ1JuSHZpdWh1bVhQa3hoX0hPRGU3P3VzcD1kcml2ZV9saW5r/screenshot.jpeg",
-    "size": "2x2"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "Concours",
     "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiDThQ6mWack-cJR9dUHZ8Fd",
-    "host": "youtube.com",
-    "iconType": "youtube",
+    "iconType": "YOUTUBE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/users%2Fcmcjiv8a702m8nm01myz7n1wm%2FQtb2ZwhsGQlcJCx8-IMG_3741.jpeg",
-    "size": "2x4"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "Répertoire",
     "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiDrnjdJ1D-uPLniTZ7ogKHB",
-    "host": "youtube.com",
-    "iconType": "youtube",
+    "iconType": "YOUTUBE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/users%2Fcmcjiv8a702m8nm01myz7n1wm%2FYT1pLP7CbTClkBMn-82772e62dfd0d30c384e425afc8d91f1.jpeg",
-    "size": "2x4"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "LADPD",
     "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiBTv-yAr_bOZoXgkR2hCojX",
-    "host": "youtube.com",
-    "iconType": "youtube",
+    "iconType": "YOUTUBE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/users%2Fcmcjiv8a702m8nm01myz7n1wm%2F0yVvftuzGsNMeVNT-ae608048-2121-4d03-95ed-00bc3c367e3f.jpg",
-    "size": "2x4"
+    "cardSize": "HRECTANGLE"
   },
   {
     "title": "Agenda BSN - Inscriptions 2024/2025",
     "url": "https://docs.google.com/spreadsheets/d/1Pc2syK2nzulhObRjfTTmrSwdoFMwQJUJM8xqM_RaG0o/edit?usp=sharing",
-    "host": "docs.google.com",
-    "iconType": "google",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20vZG9jcy9zcHJlYWRzaGVldHMvc3ByZWFkc2hlZXRzXzIwMjNxNC5pY28%3D.ico",
+    "iconType": "GSHEET",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Fogimages%2FaHR0cHM6Ly9saDctdXMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2RvY3MvQUhrYnd5Sk1NV2JRMXFXc2ZOejVXdjJhYjEya3FPaHBsRzY3WGxyak1FWXFTMWVyNUd0SUZ1R1VBNWp6bTRVRzNYX1hxSkxLMlMyMUFfakg5QV9zbVFXTGh4ekZuemJNbGdhNVVhYm8zb2N3NkVEOXJYRm5GSFNKPXcxMjAwLWg2MzAtcA%3D%3D.jpeg",
-    "size": "2x2"
+    "cardSize": "SSQUARE"
   },
   {
     "title": "Répertoire Musical Bagad",
     "url": "https://drive.google.com/drive/folders/153ilCHEvRHkcR4AbNqI_N0ktShgOQsGz?usp=drive_link",
-    "host": "drive.google.com",
-    "iconType": "google",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9zc2wuZ3N0YXRpYy5jb20vZG9jcy9kb2NsaXN0L2ltYWdlcy9kcml2ZV8yMDIycTNfMzJkcC5wbmc%3D.png",
+    "iconType": "GDRIVE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/sites/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMTUzaWxDSEV2UkhrY1I0QWJOcUlfTjBrdFNoZ09Rc0d6P3VzcD1kcml2ZV9saW5r/screenshot.jpeg",
-    "size": "2x2"
+    "cardSize": "SSQUARE"
   },
   {
     "title": "Archives",
     "url": "https://kdrive.infomaniak.com/app/share/1014199/4ce66fb4-b22c-4f41-884b-59ebf69fee96/files/260",
-    "host": "kdrive.infomaniak.com",
-    "iconType": "kdrive",
-    "faviconUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Ffavicons%2FaHR0cHM6Ly9rZHJpdmUuaW5mb21hbmlhay5jb20vYXNzZXRzLzBlZWViMDkwNmQxNWEyZmEwNGFkOGU0MmYwY2Q2MmVmN2FmNTFjYzIvYXNzZXRzL2Zhdmljb24vZmF2aWNvbi0zMngzMi5wbmc%3D.png",
+    "iconType": "KDRIVE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Fogimages%2FaHR0cHM6Ly9rZHJpdmUuaW5mb21hbmlhay5jb20vcHJldmlldy9mb2xkZXIuanBn.jpeg",
-    "size": "2x2"
+    "cardSize": "SSQUARE"
   },
   {
     "title": "Archives",
     "url": "https://www.youtube.com/playlist?list=PL2SnDdc5NwiAWZYL_Ei1gRGVJ-SaWQRcS",
-    "host": "youtube.com",
-    "iconType": "youtube",
+    "iconType": "YOUTUBE",
     "imageUrl": "https://storage.googleapis.com/creatorspace-public/sites%2Fogimages%2FaHR0cHM6Ly9pLnl0aW1nLmNvbS92aS9MNF9hbGQ0VUNaVS9ocWRlZmF1bHQuanBnP3NxcD0tb2F5bXdFWENPQURFSTRDU0ZyeXE0cXBBd2tJQVJVQUFJaENHQUU9JnJzPUFPbjRDTEIxNzFKZmhGeFFnY2Qxcy1BYzVmekZGcmF1UmcmZGF5c19zaW5jZV9lcG9jaD0yMDQxNA%3D%3D.jpeg",
-    "size": "2x2"
+    "cardSize": "SSQUARE"
   }
 ]

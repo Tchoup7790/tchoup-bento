@@ -32,8 +32,6 @@ main {
 .profile-section > div {
   width: 184px;
   height: 184px;
-  border-radius: 50%;
-  border: 0.2px solid #e6e6e6;
   overflow: hidden;
   background: white;
 }
@@ -208,7 +206,6 @@ main {
     gap: 16px;
     padding-bottom: 44px;
   }
-
   .profile-section > div {
     width: 92px;
     height: 92px;
@@ -235,7 +232,7 @@ main {
     width: 32px;
     height: 32px;
     padding: 4px;
-    border-radius: 6px;
+    border-radius: 12px;
     box-shadow: 0 1px 6px #efefef;
   }
 
@@ -252,6 +249,9 @@ main {
   .link-card[data-mobile-size='SMALLRECTANGLE'] {
     grid-column: span 2 !important;
     grid-row: span 1 !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-items: center;
   }
 
   .link-card[data-mobile-size='SMALLRECTANGLE'] .link-card-top {
@@ -266,7 +266,6 @@ main {
   .link-card[data-mobile-size='SMALLRECTANGLE'] .link-card-image {
     display: none;
   }
-
   .link-card-header {
     display: flex;
     flex-direction: column;
@@ -284,7 +283,6 @@ main {
     margin: 0;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 64px;
-    gap: 12px;
   }
 
   .link-card {
@@ -292,12 +290,11 @@ main {
   }
 
   .link-card-image {
-    position: relative;
-    width: 90px;
-    height: 100%;
-    border-radius: 12px;
-    overflow: hidden;
-    display: flex;
-    align-items: flex-end;
+    width: 160px;
+  }
+
+  .profile-section > div {
+    width: 64px;
+    height: 64px;
   }
 }

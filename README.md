@@ -1,4 +1,7 @@
-<h1 align="center">tchoup-bento</h1>
+<div align="center">
+  <img src="./public/favicon/favicon-96x96.png">
+  <h1>tchoup-bento</h1>
+</div>
 
 <p align="center">
   <a href="#description">Description</a> •

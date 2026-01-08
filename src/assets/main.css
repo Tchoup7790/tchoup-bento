@@ -18,7 +18,7 @@ main {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  max-width: 1400px;
+  max-width: 1700px;
   margin: auto;
 }
 
@@ -32,7 +32,7 @@ main {
 }
 
 .profile-section > div {
-  width: 184px;
+  width: 100%;
   height: 184px;
   position: relative;
   overflow: hidden;
@@ -42,7 +42,7 @@ main {
 .profile-section img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .profile-section h1 {
